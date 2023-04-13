@@ -113,3 +113,11 @@ nav{
     border-radius: 10px;
     box-shadow: 3px 3px 3px rgb(48, 64, 94); /*Iniciar a partir daqui*/
 }
+
+.hok{
+    width: 350px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
