@@ -35,7 +35,7 @@ footer>p{
     color: var(--corfundo);
 }
 
-h1, h2, h3{
+h1, h3{
     color: var(--cordestaque);
 }
 
@@ -144,5 +144,11 @@ nav{
     text-align: justify;
 }
 
+h2{
+    color: #405173;
+}
 
+h4{
+    color: #405173;
+}
 
